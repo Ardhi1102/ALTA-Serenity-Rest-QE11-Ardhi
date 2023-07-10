@@ -1,4 +1,4 @@
-Feature: Single User
+Feature: List Single User
   @Tugas #Positive Case
   Scenario Outline: Get Single user with parameter id
     Given Get single user with valid parameter id <id>
