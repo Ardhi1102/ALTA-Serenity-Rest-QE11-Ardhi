@@ -1,4 +1,4 @@
-Feature: Get List User
+Feature: List User
 
   @Tugas #Negative(bug)
   Scenario Outline: Get list user with invalid parameter page
